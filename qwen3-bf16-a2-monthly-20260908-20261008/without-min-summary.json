@@ -32,7 +32,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-w6htz",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "fb813d8482b4c8d1e2db5f820e28ebddcb55471d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649"
   },
   "remaining_points": 52,
   "mean": 772.2712903846154,
@@ -42,5 +51,9 @@
   "plot_y_range": [
     700,
     830
-  ]
+  ],
+  "cann_version_counts": {
+    "9.1.0": 36,
+    "9.2.0": 16
+  }
 }

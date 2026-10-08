@@ -5,15 +5,7 @@
   ],
   "workflow": ".github/workflows/schedule_nightly_test_a2.yaml",
   "branch": "main",
-  "workflow_runs": 176,
-  "target_job_attempts": 158,
   "valid_measurements": 53,
-  "without_measurement": 105,
-  "conclusion_counts": {
-    "success": 24,
-    "skipped": 101,
-    "failure": 33
-  },
   "valid_conclusion_counts": {
     "success": 24,
     "failure": 29
@@ -54,7 +46,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-pr9cd",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "17a2b63e3b3f644f7b5b079fe0b88b5bf9565423",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8ac532e62c9953203b10a66624acd85e06f93937"
   },
   "latest": {
     "head_sha": "cb9d5563aa79e2feb9a4d0319f3a2b5808566d6a",
@@ -89,7 +90,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-4dqlj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "42d309a2b504c931dbd8dc6e3c0e191e3a59a390",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "cb9d5563aa79e2feb9a4d0319f3a2b5808566d6a"
   },
   "minimum_record": {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -124,7 +134,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-w6htz",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "fb813d8482b4c8d1e2db5f820e28ebddcb55471d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649"
   },
   "maximum_record": {
     "head_sha": "5c0470d907dfe8581211f14d29cc5152688442dc",
@@ -159,6 +178,23 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-8tlwq",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "41fc1a16c4072772066790181dbb5099b34ed332",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "5c0470d907dfe8581211f14d29cc5152688442dc"
+  },
+  "cann_version_counts": {
+    "9.1.0": 37,
+    "9.2.0": 16
+  },
+  "commit_fields": {
+    "tested_head_sha": "Actual tested vLLM-Ascend commit verified from job log",
+    "workflow_head_sha": "Workflow controlling commit; may differ for PR tests"
   }
 }

@@ -52,7 +52,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-5swwr",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   "latest": {
     "head_sha": "ac850b5efdcbdbf53d05ac134390b7fdff0bd72e",
@@ -93,7 +99,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-pcs2b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   },
   "minimum_record": {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -134,7 +146,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-t2cr5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   "maximum_record": {
     "head_sha": "baa023ada41a5b889cac6249845a688aab130892",
@@ -175,6 +193,20 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-fwbv8",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
+  },
+  "cann_version_counts": {
+    "9.1.0": 33,
+    "9.2.0": 14
+  },
+  "commit_fields": {
+    "tested_head_sha": "Actual tested vLLM-Ascend commit verified from job log",
+    "workflow_head_sha": "Workflow controlling commit; may differ for PR tests"
   }
 }

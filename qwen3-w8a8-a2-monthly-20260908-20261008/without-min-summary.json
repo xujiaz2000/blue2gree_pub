@@ -38,7 +38,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-t2cr5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   "remaining_points": 46,
   "mean": 782.9515217391304,
@@ -48,5 +54,9 @@
   "plot_y_range": [
     700,
     830
-  ]
+  ],
+  "cann_version_counts": {
+    "9.1.0": 32,
+    "9.2.0": 14
+  }
 }

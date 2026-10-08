@@ -31,7 +31,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-pr9cd",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "17a2b63e3b3f644f7b5b079fe0b88b5bf9565423",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8ac532e62c9953203b10a66624acd85e06f93937"
   },
   {
     "head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467",
@@ -65,7 +74,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-lp28j",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "7f2dfddf5ff91ef2a3c759f2c5d5f35e4d3b2316",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467"
   },
   {
     "head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467",
@@ -99,53 +117,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-hv2gs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bdab8bde86aad5eba3b362f923a3ff03b2c0e772",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-10T09:24:02Z",
-    "run_id": 34460423677,
-    "run_attempt": 1,
-    "job_id": 102842816049,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-10T10:55:15Z",
-    "completed_at": "2026-09-10T10:55:15Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34460423677/job/102842816049",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-10T18:55:15+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7e0ad39fd1f4f9c55e5743fe45784fc6447399a1",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-10T13:12:08Z",
-    "run_id": 34481161897,
-    "run_attempt": 1,
-    "job_id": 102912343547,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-10T14:30:40Z",
-    "completed_at": "2026-09-10T14:30:40Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34481161897/job/102912343547",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-10T22:30:40+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "7f2dfddf5ff91ef2a3c759f2c5d5f35e4d3b2316",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467"
   },
   {
     "head_sha": "c5055c8086d56ea1b2714b0f555ba67edd05e945",
@@ -179,99 +160,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-qqmvc",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "84d6dc83a9b0016c1dcc7d3ed059acb829b61091",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-10T23:08:31Z",
-    "run_id": 34540786304,
-    "run_attempt": 1,
-    "job_id": 103097264208,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-11T00:13:18Z",
-    "completed_at": "2026-09-11T00:13:18Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34540786304/job/103097264208",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-11T08:13:18+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "f4b6bd05f05717e10e4521a78f4b3beba5bb5a99",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-11T02:00:04Z",
-    "run_id": 34552886493,
-    "run_attempt": 1,
-    "job_id": 103133889505,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-11T03:15:13Z",
-    "completed_at": "2026-09-11T03:15:13Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34552886493/job/103133889505",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-11T11:15:13+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "be427041bf63a620e4a637b60f2656e87dcdf8f6",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-11T04:12:22Z",
-    "run_id": 34561322648,
-    "run_attempt": 1,
-    "job_id": 103153195780,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-11T05:00:44Z",
-    "completed_at": "2026-09-11T05:00:43Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34561322648/job/103153195780",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-11T13:00:44+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9b2871baeaf2149f3f8126f5fd2bc9ff2fb0958a",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-11T07:34:43Z",
-    "run_id": 34575037565,
-    "run_attempt": 1,
-    "job_id": 103205611189,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-11T08:53:35Z",
-    "completed_at": "2026-09-11T08:53:35Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34575037565/job/103205611189",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-11T16:53:35+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "7e0ad39fd1f4f9c55e5743fe45784fc6447399a1",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c5055c8086d56ea1b2714b0f555ba67edd05e945"
   },
   {
     "head_sha": "c843f75aff45050fd4958dc4f24ac7e54a472df4",
@@ -305,99 +203,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-cd7pl",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3b7cf0fad5f37fb9e55d2622143819081a91e91a",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-12T03:52:54Z",
-    "run_id": 34671546210,
-    "run_attempt": 1,
-    "job_id": 103511312477,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-12T06:24:13Z",
-    "completed_at": "2026-09-12T06:24:12Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34671546210/job/103511312477",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-12T14:24:13+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9d9b9ed02475faac644222b0bd65d2f3cfb71ee1",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-12T05:32:57Z",
-    "run_id": 34675865431,
-    "run_attempt": 1,
-    "job_id": 103513816295,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-12T06:45:18Z",
-    "completed_at": "2026-09-12T06:45:18Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34675865431/job/103513816295",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-12T14:45:18+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "f50c611bbf93e4476a0d55fa965ca70dd0676d42",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-12T07:01:14Z",
-    "run_id": 34679630237,
-    "run_attempt": 1,
-    "job_id": 103524536102,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-12T08:16:20Z",
-    "completed_at": "2026-09-12T08:16:20Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34679630237/job/103524536102",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-12T16:16:20+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "d4d2957e5208c2f464d4625c05920bd29ea233cb",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-12T11:42:00Z",
-    "run_id": 34691727028,
-    "run_attempt": 1,
-    "job_id": 103556706888,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-12T12:54:15Z",
-    "completed_at": "2026-09-12T12:54:15Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34691727028/job/103556706888",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-12T20:54:15+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "c843f75aff45050fd4958dc4f24ac7e54a472df4",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c843f75aff45050fd4958dc4f24ac7e54a472df4"
   },
   {
     "head_sha": "d4d2957e5208c2f464d4625c05920bd29ea233cb",
@@ -431,7 +246,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-sqn7f",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "d4d2957e5208c2f464d4625c05920bd29ea233cb",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "d4d2957e5208c2f464d4625c05920bd29ea233cb"
   },
   {
     "head_sha": "660c4582aa580ce98edc9b681bb6ff6d03153575",
@@ -465,30 +289,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-6k75q",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "125924bb2cb5ca3f68368f251c01c705d3a67b10",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-14T08:02:17Z",
-    "run_id": 34820669744,
-    "run_attempt": 1,
-    "job_id": 103902933735,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-14T08:08:35Z",
-    "completed_at": "2026-09-14T08:08:34Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34820669744/job/103902933735",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-14T16:08:35+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "660c4582aa580ce98edc9b681bb6ff6d03153575",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "660c4582aa580ce98edc9b681bb6ff6d03153575"
   },
   {
     "head_sha": "26f1363f7180dfcbeac1230679976cede6010fc8",
@@ -522,191 +332,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-xjxkh",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "09ca138b352fbcd7398a633d7962044bc84cce1e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T09:13:33Z",
-    "run_id": 34951358020,
-    "run_attempt": 1,
-    "job_id": 104330968143,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T09:40:48Z",
-    "completed_at": "2026-09-15T09:40:47Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34951358020/job/104330968143",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T17:40:48+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "09ca138b352fbcd7398a633d7962044bc84cce1e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T09:16:20Z",
-    "run_id": 34951626639,
-    "run_attempt": 1,
-    "job_id": 104331692546,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T09:43:11Z",
-    "completed_at": "2026-09-15T09:43:11Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34951626639/job/104331692546",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T17:43:11+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "09ca138b352fbcd7398a633d7962044bc84cce1e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T09:02:35Z",
-    "run_id": 34950304371,
-    "run_attempt": 1,
-    "job_id": 104343090958,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T10:21:47Z",
-    "completed_at": "2026-09-15T10:21:47Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34950304371/job/104343090958",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T18:21:47+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "fbb75a47436901616849da155828f755ec58b619",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T10:27:04Z",
-    "run_id": 34957981292,
-    "run_attempt": 1,
-    "job_id": 104352513244,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T10:54:32Z",
-    "completed_at": "2026-09-15T10:54:32Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34957981292/job/104352513244",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T18:54:32+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "fbb75a47436901616849da155828f755ec58b619",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T10:23:42Z",
-    "run_id": 34957715415,
-    "run_attempt": 1,
-    "job_id": 104364550478,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T11:36:05Z",
-    "completed_at": "2026-09-15T11:36:05Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34957715415/job/104364550478",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T19:36:05+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "fbb75a47436901616849da155828f755ec58b619",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T11:10:34Z",
-    "run_id": 34961862799,
-    "run_attempt": 1,
-    "job_id": 104365296712,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T11:38:39Z",
-    "completed_at": "2026-09-15T11:38:39Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34961862799/job/104365296712",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T19:38:39+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "2903ca8db99f232ba653f518fc7f7ca8a48ff193",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T12:30:33Z",
-    "run_id": 34969253618,
-    "run_attempt": 1,
-    "job_id": 104390407865,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T12:58:09Z",
-    "completed_at": "2026-09-15T12:58:09Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34969253618/job/104390407865",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T20:58:09+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "13c37078dede8ffc676ee243801df889d8bfa02e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-15T12:36:16Z",
-    "run_id": 34969824585,
-    "run_attempt": 1,
-    "job_id": 104392106660,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-15T13:03:05Z",
-    "completed_at": "2026-09-15T13:03:04Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/34969824585/job/104392106660",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-15T21:03:05+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "b88c38c938b53265c997e003b32d764c0f797dc6",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "26f1363f7180dfcbeac1230679976cede6010fc8"
   },
   {
     "head_sha": "b49962987e89b850586f1819ce8f85daa85a0f81",
@@ -740,76 +375,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-fshdf",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "4c5ee33208b6808625c5994f9d45bfd4705e8dfc",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-16T03:11:05Z",
-    "run_id": 35050830365,
-    "run_attempt": 1,
-    "job_id": 104664779748,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-16T04:25:14Z",
-    "completed_at": "2026-09-16T04:25:14Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35050830365/job/104664779748",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-16T12:25:14+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3437e32bb30ccf890589492149b58b991fce57a6",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-16T06:47:09Z",
-    "run_id": 35065313137,
-    "run_attempt": 1,
-    "job_id": 104695880246,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-16T06:54:11Z",
-    "completed_at": "2026-09-16T06:54:11Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35065313137/job/104695880246",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-16T14:54:11+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3437e32bb30ccf890589492149b58b991fce57a6",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-16T06:45:39Z",
-    "run_id": 35065198772,
-    "run_attempt": 1,
-    "job_id": 104742309173,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-16T09:35:19Z",
-    "completed_at": "2026-09-16T09:35:19Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35065198772/job/104742309173",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-16T17:35:19+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "714dd1d1ba032972e6a734254a816ca13c302da1",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "b49962987e89b850586f1819ce8f85daa85a0f81"
   },
   {
     "head_sha": "e1d1490314eeb5baec2e77b27a9610e5358aa153",
@@ -843,237 +418,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-l4wvj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7a0aaebca6919cf2302c77b52eb82bf312b6c1da",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T03:02:18Z",
-    "run_id": 35176652097,
-    "run_attempt": 1,
-    "job_id": 105065431604,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T03:31:54Z",
-    "completed_at": "2026-09-17T03:31:53Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35176652097/job/105065431604",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T11:31:54+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8a36237e9b1119213d5d9efb02262191d4899320",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T02:01:06Z",
-    "run_id": 35172777243,
-    "run_attempt": 1,
-    "job_id": 105072424132,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T04:09:22Z",
-    "completed_at": "2026-09-17T04:09:22Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35172777243/job/105072424132",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T12:09:22+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bc7f7be042a1b232817956f9a4da80e327c907f9",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T03:47:09Z",
-    "run_id": 35179457224,
-    "run_attempt": 1,
-    "job_id": 105084182917,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T05:10:42Z",
-    "completed_at": "2026-09-17T05:10:41Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35179457224/job/105084182917",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T13:10:42+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7a0aaebca6919cf2302c77b52eb82bf312b6c1da",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T02:37:18Z",
-    "run_id": 35175111205,
-    "run_attempt": 1,
-    "job_id": 105087231432,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T05:26:04Z",
-    "completed_at": "2026-09-17T05:26:04Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35175111205/job/105087231432",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T13:26:04+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bc7f7be042a1b232817956f9a4da80e327c907f9",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T06:09:03Z",
-    "run_id": 35188589411,
-    "run_attempt": 1,
-    "job_id": 105096944250,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T06:13:50Z",
-    "completed_at": "2026-09-17T06:13:50Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35188589411/job/105096944250",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T14:13:50+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bc7f7be042a1b232817956f9a4da80e327c907f9",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T06:19:39Z",
-    "run_id": 35189336167,
-    "run_attempt": 1,
-    "job_id": 105099278426,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T06:24:25Z",
-    "completed_at": "2026-09-17T06:24:25Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35189336167/job/105099278426",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T14:24:25+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bc7f7be042a1b232817956f9a4da80e327c907f9",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T06:27:50Z",
-    "run_id": 35189931528,
-    "run_attempt": 1,
-    "job_id": 105124104150,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T08:01:45Z",
-    "completed_at": "2026-09-17T08:01:45Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35189931528/job/105124104150",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T16:01:45+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8c30e4f491f73cba737a1dacc522894e437cdf3d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T07:50:18Z",
-    "run_id": 35196537677,
-    "run_attempt": 1,
-    "job_id": 105145941131,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T09:16:28Z",
-    "completed_at": "2026-09-17T09:16:28Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35196537677/job/105145941131",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T17:16:28+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "a6097f6da15d2d92daabec6dfd9a5b4fd6e567d5",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T09:56:19Z",
-    "run_id": 35207821866,
-    "run_attempt": 1,
-    "job_id": 105178012363,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T11:07:07Z",
-    "completed_at": "2026-09-17T11:07:06Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35207821866/job/105178012363",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T19:07:07+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3db3f931e155da9b496febe8a42d9bd7d9f52849",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-17T10:49:59Z",
-    "run_id": 35212527226,
-    "run_attempt": 1,
-    "job_id": 105193944616,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-17T12:02:39Z",
-    "completed_at": "2026-09-17T12:02:39Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35212527226/job/105193944616",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-17T20:02:39+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "bdab8bde86aad5eba3b362f923a3ff03b2c0e772",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "e1d1490314eeb5baec2e77b27a9610e5358aa153"
   },
   {
     "head_sha": "c7ca0b676b9668535f467b78cff1274a4ddb63b2",
@@ -1107,30 +461,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-vdq5c",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c7ca0b676b9668535f467b78cff1274a4ddb63b2",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-18T00:57:08Z",
-    "run_id": 35293315295,
-    "run_attempt": 1,
-    "job_id": 105451086067,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-18T01:49:14Z",
-    "completed_at": "2026-09-18T01:49:14Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35293315295/job/105451086067",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-18T09:49:14+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "c7ca0b676b9668535f467b78cff1274a4ddb63b2",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c7ca0b676b9668535f467b78cff1274a4ddb63b2"
   },
   {
     "head_sha": "21bfcb10da6e56d2d416eb65bb0f511c1aa8a710",
@@ -1164,61 +504,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-jztbj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "21bfcb10da6e56d2d416eb65bb0f511c1aa8a710",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-18T03:52:49Z",
-    "run_id": 35304848368,
-    "run_attempt": 1,
-    "job_id": 105487936433,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-18T05:03:52Z",
-    "completed_at": "2026-09-18T05:03:52Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35304848368/job/105487936433",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-18T13:03:52+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "fe167d93bb7e914a4c863cdc54a41cf03339b3dc",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-18T09:17:34Z",
-    "run_id": 35328765771,
-    "run_attempt": 1,
-    "job_id": 105549853185,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / qwen3-30b-a3b-bf16-a2-performance",
-    "conclusion": "failure",
-    "started_at": "2026-09-18T09:24:44Z",
-    "completed_at": "2026-09-18T09:51:47Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35328765771/job/105549853185",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "Total Requests": null,
-    "Failed Requests": null,
-    "Success Requests": null,
-    "Total Generated Tokens": null,
-    "Benchmark Duration": null,
-    "images": [
-      "swr.cn-southwest-2.myhuaweicloud.com/base_image/ascend-ci/vllm-ascend:nightly-ci-main-a2"
     ],
-    "time_beijing": "2026-09-18T17:24:44+08:00",
-    "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-7vx8v",
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ],
-    "missing_reason": "No throughput row in job log"
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "8f3976a7e70b4d57617c0f45d96fd82053bd04c0",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "21bfcb10da6e56d2d416eb65bb0f511c1aa8a710"
   },
   {
     "head_sha": "628fac6d85c27f5f24a589db300ae9add24151ff",
@@ -1252,30 +547,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-tghsp",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3429b5bb4819b0b9887fceb027dd23728c203136",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-18T10:11:48Z",
-    "run_id": 35333452541,
-    "run_attempt": 1,
-    "job_id": 105576691568,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-18T11:04:43Z",
-    "completed_at": "2026-09-18T11:04:43Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35333452541/job/105576691568",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-18T19:04:43+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "82145c70dffa369d82c3b0da97942266731f7e25",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "628fac6d85c27f5f24a589db300ae9add24151ff"
   },
   {
     "head_sha": "8af9dff3a8a9386f7d3c0e49ce741e9e6ada4e5f",
@@ -1309,7 +590,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-dcpbp",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "e4c00b54e6f90e98654f676bb5a0552dbf903632",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8af9dff3a8a9386f7d3c0e49ce741e9e6ada4e5f"
   },
   {
     "head_sha": "c8addbb24fe8fa820bb79685c116e43ba89b77e9",
@@ -1343,61 +633,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-xczm7",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "e139b7d573d3769fd1407d5027d7d4831f5469f0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-19T04:32:02Z",
-    "run_id": 35421545671,
-    "run_attempt": 1,
-    "job_id": 105840786864,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-19T04:37:59Z",
-    "completed_at": "2026-09-19T04:37:58Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35421545671/job/105840786864",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-19T12:37:59+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "b255ab59662d8c665e5534e926f913b1c1179b1c",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-19T15:45:01Z",
-    "run_id": 35452779632,
-    "run_attempt": 1,
-    "job_id": 105924745914,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / qwen3-30b-a3b-bf16-a2-performance",
-    "conclusion": "failure",
-    "started_at": "2026-09-19T16:02:23Z",
-    "completed_at": "2026-09-19T16:08:37Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35452779632/job/105924745914",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "Total Requests": null,
-    "Failed Requests": null,
-    "Success Requests": null,
-    "Total Generated Tokens": null,
-    "Benchmark Duration": null,
-    "images": [
-      "swr.cn-southwest-2.myhuaweicloud.com/base_image/ascend-ci/vllm-ascend:nightly-ci-main-a2"
     ],
-    "time_beijing": "2026-09-20T00:02:23+08:00",
-    "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-mfbh6",
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ],
-    "missing_reason": "No throughput row in job log"
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "c8addbb24fe8fa820bb79685c116e43ba89b77e9",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c8addbb24fe8fa820bb79685c116e43ba89b77e9"
   },
   {
     "head_sha": "182a7e496605ff60cdb8fa1f5504703fb91aaa8f",
@@ -1431,145 +676,16 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-vszcb",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8bd6fe0bc519e2beb9930687ac3e89f2245aa70d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T06:30:14Z",
-    "run_id": 35494393918,
-    "run_attempt": 1,
-    "job_id": 106036497784,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T06:46:00Z",
-    "completed_at": "2026-09-20T06:46:00Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35494393918/job/106036497784",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T14:46:00+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8bd6fe0bc519e2beb9930687ac3e89f2245aa70d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T06:49:29Z",
-    "run_id": 35495231163,
-    "run_attempt": 1,
-    "job_id": 106037609266,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T06:55:50Z",
-    "completed_at": "2026-09-20T06:55:50Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35495231163/job/106037609266",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T14:55:50+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8bd6fe0bc519e2beb9930687ac3e89f2245aa70d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T07:13:43Z",
-    "run_id": 35496303545,
-    "run_attempt": 1,
-    "job_id": 106046330290,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T08:06:55Z",
-    "completed_at": "2026-09-20T08:06:55Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35496303545/job/106046330290",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T16:06:55+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "df3e755e98fba8c6a18f200c645e0c2050469bc3",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T08:08:01Z",
-    "run_id": 35498721726,
-    "run_attempt": 1,
-    "job_id": 106047281196,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T08:14:28Z",
-    "completed_at": "2026-09-20T08:14:28Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35498721726/job/106047281196",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T16:14:28+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "1e0742722d149b99f91ece504180aa9bdf8b69af",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T08:34:59Z",
-    "run_id": 35499951041,
-    "run_attempt": 1,
-    "job_id": 106050443013,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T08:39:57Z",
-    "completed_at": "2026-09-20T08:39:57Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35499951041/job/106050443013",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T16:39:57+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "1e0742722d149b99f91ece504180aa9bdf8b69af",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T08:46:13Z",
-    "run_id": 35500471626,
-    "run_attempt": 1,
-    "job_id": 106052071567,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T08:53:14Z",
-    "completed_at": "2026-09-20T08:53:14Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35500471626/job/106052071567",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-20T16:53:14+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "15d85da2c11bea06022ee3164baa3ead2f4c677f",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "182a7e496605ff60cdb8fa1f5504703fb91aaa8f"
   },
   {
     "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
@@ -1603,76 +719,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-4vhjg",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-20T23:48:43Z",
-    "run_id": 35545736131,
-    "run_attempt": 1,
-    "job_id": 106171731097,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-20T23:53:10Z",
-    "completed_at": "2026-09-20T23:53:10Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35545736131/job/106171731097",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T07:53:10+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T00:39:54Z",
-    "run_id": 35548406902,
-    "run_attempt": 1,
-    "job_id": 106179107001,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T00:44:13Z",
-    "completed_at": "2026-09-21T00:44:12Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35548406902/job/106179107001",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T08:44:13+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T01:27:54Z",
-    "run_id": 35550977698,
-    "run_attempt": 1,
-    "job_id": 106186198975,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T01:32:21Z",
-    "completed_at": "2026-09-21T01:32:20Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35550977698/job/106186198975",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T09:32:21+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19"
   },
   {
     "head_sha": "72bde513b321d686173aa9de99dc796e2f45276e",
@@ -1706,306 +762,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-84wpw",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "d052552072254a21560e8c5ebc04b80524c89622",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T04:23:05Z",
-    "run_id": 35560768263,
-    "run_attempt": 1,
-    "job_id": 106213902489,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T04:27:42Z",
-    "completed_at": "2026-09-21T04:27:42Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35560768263/job/106213902489",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T12:27:42+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9693cc1a4048daeb860931bbb283fd4fe55f5ef0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T07:04:54Z",
-    "run_id": 35571256527,
-    "run_attempt": 1,
-    "job_id": 106244285432,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T07:09:37Z",
-    "completed_at": "2026-09-21T07:09:37Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35571256527/job/106244285432",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T15:09:37+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9693cc1a4048daeb860931bbb283fd4fe55f5ef0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T07:05:51Z",
-    "run_id": 35571330962,
-    "run_attempt": 1,
-    "job_id": 106244508803,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T07:10:32Z",
-    "completed_at": "2026-09-21T07:10:31Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35571330962/job/106244508803",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T15:10:32+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9693cc1a4048daeb860931bbb283fd4fe55f5ef0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T07:32:39Z",
-    "run_id": 35573454894,
-    "run_attempt": 1,
-    "job_id": 106250990004,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T07:37:03Z",
-    "completed_at": "2026-09-21T07:37:02Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35573454894/job/106250990004",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T15:37:03+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9693cc1a4048daeb860931bbb283fd4fe55f5ef0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T07:35:18Z",
-    "run_id": 35573664370,
-    "run_attempt": 1,
-    "job_id": 106251693578,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T07:39:52Z",
-    "completed_at": "2026-09-21T07:39:52Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35573664370/job/106251693578",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T15:39:52+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c8537ac0e9affffd0788a77782b77545b0bb018e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T07:48:38Z",
-    "run_id": 35574724049,
-    "run_attempt": 1,
-    "job_id": 106255015174,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T07:53:14Z",
-    "completed_at": "2026-09-21T07:53:14Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35574724049/job/106255015174",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T15:53:14+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "cc09c44576a2d957df7de5f66244a81e99819ab3",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T08:10:16Z",
-    "run_id": 35576498167,
-    "run_attempt": 1,
-    "job_id": 106260804514,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T08:15:23Z",
-    "completed_at": "2026-09-21T08:15:23Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35576498167/job/106260804514",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T16:15:23+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "475a9a0b44404d3a6fdf523b6f63aa5cb50d6cb8",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T08:35:14Z",
-    "run_id": 35578674990,
-    "run_attempt": 1,
-    "job_id": 106267511019,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T08:39:55Z",
-    "completed_at": "2026-09-21T08:39:55Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35578674990/job/106267511019",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T16:39:55+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "475a9a0b44404d3a6fdf523b6f63aa5cb50d6cb8",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T08:39:26Z",
-    "run_id": 35579039850,
-    "run_attempt": 1,
-    "job_id": 106268728248,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T08:44:20Z",
-    "completed_at": "2026-09-21T08:44:20Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35579039850/job/106268728248",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T16:44:20+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "475a9a0b44404d3a6fdf523b6f63aa5cb50d6cb8",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T08:53:53Z",
-    "run_id": 35580295526,
-    "run_attempt": 1,
-    "job_id": 106272762780,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T08:58:54Z",
-    "completed_at": "2026-09-21T08:58:53Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35580295526/job/106272762780",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T16:58:54+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "d4511510e15eb52744089e40d8cd7c9fc23ac0f4",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T08:58:52Z",
-    "run_id": 35580733048,
-    "run_attempt": 1,
-    "job_id": 106274160549,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T09:03:47Z",
-    "completed_at": "2026-09-21T09:03:47Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35580733048/job/106274160549",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T17:03:47+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "d4511510e15eb52744089e40d8cd7c9fc23ac0f4",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T09:14:56Z",
-    "run_id": 35582185607,
-    "run_attempt": 1,
-    "job_id": 106279019927,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T09:20:34Z",
-    "completed_at": "2026-09-21T09:20:34Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35582185607/job/106279019927",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T17:20:34+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "eab5875da2f6ec417dcafac44e3461b3c9d69de3",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-21T09:36:31Z",
-    "run_id": 35584252254,
-    "run_attempt": 1,
-    "job_id": 106301992885,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-21T10:40:33Z",
-    "completed_at": "2026-09-21T10:40:33Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35584252254/job/106301992885",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-21T18:40:33+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "71a8bbfd52f2365f8dd53f339597fb9a82c5bb8c",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "72bde513b321d686173aa9de99dc796e2f45276e"
   },
   {
     "head_sha": "b1bb543881ec88899f7a6fd92005ab34179edd81",
@@ -2039,7 +805,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-lwsgr",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "731afcbb2e9cd73914004337df6be7bfa4127c04",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "b1bb543881ec88899f7a6fd92005ab34179edd81"
   },
   {
     "head_sha": "baa023ada41a5b889cac6249845a688aab130892",
@@ -2073,30 +848,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-zsvzg",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "278c9984126cecbd989ea7195628aca6b71902c7",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-22T03:43:24Z",
-    "run_id": 35684201527,
-    "run_attempt": 1,
-    "job_id": 106608276435,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-22T03:48:04Z",
-    "completed_at": "2026-09-22T03:48:04Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35684201527/job/106608276435",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-22T11:48:04+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "baa023ada41a5b889cac6249845a688aab130892",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "baa023ada41a5b889cac6249845a688aab130892"
   },
   {
     "head_sha": "baa023ada41a5b889cac6249845a688aab130892",
@@ -2131,38 +892,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-rsgdl",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "5f8a1286a2d04d35b94ebc8a961057c48a7b82d2",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-22T08:41:17Z",
-    "run_id": 35706162260,
-    "run_attempt": 1,
-    "job_id": 106677313954,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / qwen3-30b-a3b-bf16-a2-performance",
-    "conclusion": "failure",
-    "started_at": "2026-09-22T08:48:07Z",
-    "completed_at": "2026-09-22T09:14:08Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35706162260/job/106677313954",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "Total Requests": null,
-    "Failed Requests": null,
-    "Success Requests": null,
-    "Total Generated Tokens": null,
-    "Benchmark Duration": null,
-    "images": [
-      "swr.cn-north-12.myhuaweicloud.com/base_image/ascend-ci/vllm-ascend:nightly-ci-main-a2"
     ],
-    "time_beijing": "2026-09-22T16:48:07+08:00",
-    "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-bcgln",
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ],
-    "missing_reason": "No throughput row in job log"
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "0afb901134c6a23d13cb6b6d7425c12e0d1f439a",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "baa023ada41a5b889cac6249845a688aab130892"
   },
   {
     "head_sha": "5c0470d907dfe8581211f14d29cc5152688442dc",
@@ -2197,38 +936,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-8tlwq",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "5591facb371bdb99f59a7a0bb8d59b6c4de137dd",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-22T15:08:49Z",
-    "run_id": 35745271509,
-    "run_attempt": 1,
-    "job_id": 106818086384,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / qwen3-30b-a3b-bf16-a2-performance",
-    "conclusion": "failure",
-    "started_at": "2026-09-22T15:41:27Z",
-    "completed_at": "2026-09-22T15:51:46Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35745271509/job/106818086384",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "Total Requests": null,
-    "Failed Requests": null,
-    "Success Requests": null,
-    "Total Generated Tokens": null,
-    "Benchmark Duration": null,
-    "images": [
-      "swr.cn-north-12.myhuaweicloud.com/base_image/ascend-ci/vllm-ascend:nightly-ci-main-a2"
     ],
-    "time_beijing": "2026-09-22T23:41:27+08:00",
-    "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-f4cp7",
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ],
-    "missing_reason": "No throughput row in job log"
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "41fc1a16c4072772066790181dbb5099b34ed332",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "5c0470d907dfe8581211f14d29cc5152688442dc"
   },
   {
     "head_sha": "5591facb371bdb99f59a7a0bb8d59b6c4de137dd",
@@ -2262,7 +979,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-pdqc4",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "baa023ada41a5b889cac6249845a688aab130892",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "5591facb371bdb99f59a7a0bb8d59b6c4de137dd"
   },
   {
     "head_sha": "a71b766ce6fc0a9669a412e15a5cf53f7f827093",
@@ -2296,122 +1022,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-w5qwx",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "47ba29b72b5d0406f9c41e7b1fc6eb30e7a067a5",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-23T01:32:24Z",
-    "run_id": 35806699265,
-    "run_attempt": 1,
-    "job_id": 107034438971,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-23T03:36:02Z",
-    "completed_at": "2026-09-23T03:36:02Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35806699265/job/107034438971",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-23T11:36:02+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "44518f429d4f2df24002a88981e121e2952d952b",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-23T09:31:25Z",
-    "run_id": 35843438068,
-    "run_attempt": 1,
-    "job_id": 107125345103,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-23T09:36:20Z",
-    "completed_at": "2026-09-23T09:36:20Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35843438068/job/107125345103",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-23T17:36:20+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "b2083a82fb34ebb9b19077c9cfac64aa6f08fa25",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-23T09:59:22Z",
-    "run_id": 35846140918,
-    "run_attempt": 1,
-    "job_id": 107137186505,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-23T10:13:20Z",
-    "completed_at": "2026-09-23T10:13:20Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35846140918/job/107137186505",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-23T18:13:20+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7ee7382725ea2fd800b3c0a72b2e61c94ccc5a50",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-23T12:13:47Z",
-    "run_id": 35859176853,
-    "run_attempt": 1,
-    "job_id": 107176447101,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-23T12:18:27Z",
-    "completed_at": "2026-09-23T12:18:27Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35859176853/job/107176447101",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-23T20:18:27+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "cfbd3ac72ddebb3a366ff2c950fc97f9e45552af",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-23T14:22:30Z",
-    "run_id": 35873703524,
-    "run_attempt": 1,
-    "job_id": 107225982051,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-23T14:27:07Z",
-    "completed_at": "2026-09-23T14:27:07Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35873703524/job/107225982051",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-23T22:27:07+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "a71b766ce6fc0a9669a412e15a5cf53f7f827093",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "a71b766ce6fc0a9669a412e15a5cf53f7f827093"
   },
   {
     "head_sha": "ad7a731b9c0db2592bbe1f568a776207745017ed",
@@ -2445,7 +1065,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-5dbzs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "ad7a731b9c0db2592bbe1f568a776207745017ed",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "ad7a731b9c0db2592bbe1f568a776207745017ed"
   },
   {
     "head_sha": "39fef3f8fe71e71a8b7a684ae0f62b85ff18661f",
@@ -2479,122 +1108,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-nrhrh",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "abe8ff18a96bcd5f90d08077d1ccd068b959cab4",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-24T03:07:27Z",
-    "run_id": 35950129704,
-    "run_attempt": 1,
-    "job_id": 107477784670,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-24T03:12:43Z",
-    "completed_at": "2026-09-24T03:12:43Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35950129704/job/107477784670",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-24T11:12:43+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "5a84871b22e968333b3451f70a93ac58734d996b",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-24T04:40:29Z",
-    "run_id": 35956647362,
-    "run_attempt": 1,
-    "job_id": 107497229302,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-24T04:45:02Z",
-    "completed_at": "2026-09-24T04:45:01Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35956647362/job/107497229302",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-24T12:45:02+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "cc3cca4f2e7f038025e4c782b160753509de12b0",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-24T07:54:05Z",
-    "run_id": 35972148898,
-    "run_attempt": 1,
-    "job_id": 107545521977,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-24T07:58:57Z",
-    "completed_at": "2026-09-24T07:58:57Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35972148898/job/107545521977",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-24T15:58:57+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "1070ec4606fee2722704b2cd83697da8fc63bf95",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-24T11:40:32Z",
-    "run_id": 35994397246,
-    "run_attempt": 1,
-    "job_id": 107617291299,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-24T11:45:18Z",
-    "completed_at": "2026-09-24T11:45:17Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/35994397246/job/107617291299",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-24T19:45:18+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "2bb3f44716f3505d2723a4e5badb10211a6c5589",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-25T13:52:06Z",
-    "run_id": 36143711596,
-    "run_attempt": 1,
-    "job_id": 108144110514,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-25T15:52:18Z",
-    "completed_at": "2026-09-25T15:52:18Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36143711596/job/108144110514",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-25T23:52:18+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "39fef3f8fe71e71a8b7a684ae0f62b85ff18661f",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "39fef3f8fe71e71a8b7a684ae0f62b85ff18661f"
   },
   {
     "head_sha": "2bb3f44716f3505d2723a4e5badb10211a6c5589",
@@ -2628,7 +1151,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-wjgzz",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B211",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "baa023ada41a5b889cac6249845a688aab130892",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "2bb3f44716f3505d2723a4e5badb10211a6c5589"
   },
   {
     "head_sha": "eb31db4d75622a8043703d2cbb55e9df75e70f98",
@@ -2662,53 +1194,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-gmt6n",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-27T07:31:29Z",
-    "run_id": 36303363949,
-    "run_attempt": 1,
-    "job_id": 108575768110,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-27T07:35:50Z",
-    "completed_at": "2026-09-27T07:35:50Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36303363949/job/108575768110",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-27T15:35:50+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-27T07:42:40Z",
-    "run_id": 36303939512,
-    "run_attempt": 1,
-    "job_id": 108581908602,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-27T08:17:33Z",
-    "completed_at": "2026-09-27T08:17:33Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36303939512/job/108581908602",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-27T16:17:33+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "bbb5672af80b1972c301852aa505b13374fa6355",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "eb31db4d75622a8043703d2cbb55e9df75e70f98"
   },
   {
     "head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e",
@@ -2742,53 +1237,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-m2qmv",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "2cd61dab976fd2a8091035f41c73286c8adb7ce8",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-27T09:25:48Z",
-    "run_id": 36309337399,
-    "run_attempt": 1,
-    "job_id": 108597292356,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-27T10:01:08Z",
-    "completed_at": "2026-09-27T10:01:08Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36309337399/job/108597292356",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-27T18:01:08+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "19fb6fbf6eb9073326523259b9977de63f984247",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-27T11:55:12Z",
-    "run_id": 36317275896,
-    "run_attempt": 1,
-    "job_id": 108619035484,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-27T12:26:29Z",
-    "completed_at": "2026-09-27T12:26:29Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36317275896/job/108619035484",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-27T20:26:29+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -2823,30 +1281,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-g8s6b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-27T16:33:11Z",
-    "run_id": 36333662989,
-    "run_attempt": 1,
-    "job_id": 108666072186,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-27T17:06:55Z",
-    "completed_at": "2026-09-27T17:06:54Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36333662989/job/108666072186",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T01:06:55+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -2881,7 +1325,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-njgqk",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "02bebd5f46326a3483e132443f5965f6a80d7579",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -2916,7 +1369,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-5mkzs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "02bebd5f46326a3483e132443f5965f6a80d7579",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -2951,7 +1413,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-79rl5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "02bebd5f46326a3483e132443f5965f6a80d7579",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -2986,7 +1457,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-dx5pv",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "02bebd5f46326a3483e132443f5965f6a80d7579",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -3020,260 +1500,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-gln9d",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "18d0537d919c303952fbe6f3442349d0de42970d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T01:53:44Z",
-    "run_id": 36367714179,
-    "run_attempt": 1,
-    "job_id": 108758249330,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T01:58:49Z",
-    "completed_at": "2026-09-28T01:58:48Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36367714179/job/108758249330",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T09:58:49+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T01:50:14Z",
-    "run_id": 36367499247,
-    "run_attempt": 1,
-    "job_id": 108762701109,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T02:21:51Z",
-    "completed_at": "2026-09-28T02:21:50Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36367499247/job/108762701109",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T10:21:51+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9df651d0ba8d92720275857199d38fc99a485f85",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T04:29:46Z",
-    "run_id": 36377949943,
-    "run_attempt": 1,
-    "job_id": 108788556020,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T04:34:37Z",
-    "completed_at": "2026-09-28T04:34:36Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36377949943/job/108788556020",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T12:34:37+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9df651d0ba8d92720275857199d38fc99a485f85",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T05:53:01Z",
-    "run_id": 36383829881,
-    "run_attempt": 1,
-    "job_id": 108805965553,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T05:57:43Z",
-    "completed_at": "2026-09-28T05:57:43Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36383829881/job/108805965553",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T13:57:43+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "9df651d0ba8d92720275857199d38fc99a485f85",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T05:52:31Z",
-    "run_id": 36383793595,
-    "run_attempt": 1,
-    "job_id": 108812253808,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T06:24:17Z",
-    "completed_at": "2026-09-28T06:24:17Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36383793595/job/108812253808",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T14:24:17+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "597ab74d86af0e5d9a467618d70bd0aafed0cbea",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T07:05:37Z",
-    "run_id": 36389778699,
-    "run_attempt": 1,
-    "job_id": 108824226112,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T07:10:45Z",
-    "completed_at": "2026-09-28T07:10:45Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36389778699/job/108824226112",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T15:10:45+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "79f4a63f8b7c9cc2bfca426a984391e27cfd0333",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T07:49:58Z",
-    "run_id": 36393807004,
-    "run_attempt": 1,
-    "job_id": 108836757703,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T07:54:32Z",
-    "completed_at": "2026-09-28T07:54:31Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36393807004/job/108836757703",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T15:54:32+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "79f4a63f8b7c9cc2bfca426a984391e27cfd0333",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T08:36:54Z",
-    "run_id": 36398406912,
-    "run_attempt": 1,
-    "job_id": 108851789819,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T08:41:49Z",
-    "completed_at": "2026-09-28T08:41:48Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36398406912/job/108851789819",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T16:41:49+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "530e9b60ef2cdbce713816c5b41d2f3e8827e7aa",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T09:07:48Z",
-    "run_id": 36401530561,
-    "run_attempt": 1,
-    "job_id": 108870582613,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T09:37:47Z",
-    "completed_at": "2026-09-28T09:37:46Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36401530561/job/108870582613",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T17:37:47+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "423e85d032b0146d1d613456d3c391f1f1ac5d13",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T10:00:32Z",
-    "run_id": 36407056544,
-    "run_attempt": 1,
-    "job_id": 108880065609,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T10:06:05Z",
-    "completed_at": "2026-09-28T10:06:04Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36407056544/job/108880065609",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T18:06:05+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "ed87853ffc96146e902141e53bd0a9a314791c9c",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-28T10:24:52Z",
-    "run_id": 36409554688,
-    "run_attempt": 1,
-    "job_id": 108939641930,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-28T13:03:25Z",
-    "completed_at": "2026-09-28T13:03:25Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36409554688/job/108939641930",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-28T21:03:25+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "ed22208600def08a0fba9903b3c715b325e01e4a",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6"
   },
   {
     "head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
@@ -3307,7 +1543,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-mqssr",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d"
   },
   {
     "head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
@@ -3342,7 +1587,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-rw5s5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "c244f8e7f6b46e64fc24d6ba6f6af79247218817",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d"
   },
   {
     "head_sha": "b185282b417e1c52ecaff125154cf86e3e9c46be",
@@ -3376,191 +1630,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-prm2s",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T01:30:00Z",
-    "run_id": 36508186139,
-    "run_attempt": 1,
-    "job_id": 109246661909,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T03:47:33Z",
-    "completed_at": "2026-09-29T03:47:33Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36508186139/job/109246661909",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T11:47:33+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "99d96c3da44adfd94e277173b1395eb46659f11f",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T03:54:39Z",
-    "run_id": 36519229608,
-    "run_attempt": 1,
-    "job_id": 109277505423,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T05:59:09Z",
-    "completed_at": "2026-09-29T05:59:09Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36519229608/job/109277505423",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T13:59:09+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "76c396813b54316186ceac30e47889d95cbab3bd",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T06:18:07Z",
-    "run_id": 36530370555,
-    "run_attempt": 1,
-    "job_id": 109323064678,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T08:30:19Z",
-    "completed_at": "2026-09-29T08:30:19Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36530370555/job/109323064678",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T16:30:19+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "a458e0c69efd10403926196af1dcf37dd49438d3",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T07:25:45Z",
-    "run_id": 36536567193,
-    "run_attempt": 1,
-    "job_id": 109347390770,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T09:39:17Z",
-    "completed_at": "2026-09-29T09:39:17Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36536567193/job/109347390770",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T17:39:17+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "3fad2cb358b03b1ea284a82046d7684c9b96e753",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T10:21:36Z",
-    "run_id": 36555072860,
-    "run_attempt": 1,
-    "job_id": 109385881051,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T11:31:57Z",
-    "completed_at": "2026-09-29T11:31:56Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36555072860/job/109385881051",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T19:31:57+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "f1bb5c86ec2eb57150e5173be5801dfda59f6fdd",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T12:30:51Z",
-    "run_id": 36568604025,
-    "run_attempt": 1,
-    "job_id": 109449160882,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T14:13:53Z",
-    "completed_at": "2026-09-29T14:13:53Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36568604025/job/109449160882",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T22:13:53+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "bdc579acd5949ce6e0ef08a0a857962d3d4e5377",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T12:02:34Z",
-    "run_id": 36565522448,
-    "run_attempt": 1,
-    "job_id": 109461022381,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T14:40:58Z",
-    "completed_at": "2026-09-29T14:40:58Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36565522448/job/109461022381",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-29T22:40:58+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T14:57:30Z",
-    "run_id": 36586487080,
-    "run_attempt": 1,
-    "job_id": 109523094921,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T17:05:44Z",
-    "completed_at": "2026-09-29T17:05:43Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36586487080/job/109523094921",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-30T01:05:44+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "9890fa6152d28deb847187810ab85a4a1c96fedf",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "b185282b417e1c52ecaff125154cf86e3e9c46be"
   },
   {
     "head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7",
@@ -3594,76 +1673,16 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-j4cfz",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-29T18:03:50Z",
-    "run_id": 36609362298,
-    "run_attempt": 1,
-    "job_id": 109597422353,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-29T20:09:39Z",
-    "completed_at": "2026-09-29T20:09:38Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36609362298/job/109597422353",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-30T04:09:39+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-30T01:16:45Z",
-    "run_id": 36654343220,
-    "run_attempt": 1,
-    "job_id": 109724512025,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-30T03:20:31Z",
-    "completed_at": "2026-09-30T03:20:31Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36654343220/job/109724512025",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-30T11:20:31+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "12fd3a90a0895aebbc58926334e9891683c00699",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-09-30T03:36:53Z",
-    "run_id": 36665193676,
-    "run_attempt": 1,
-    "job_id": 109729477875,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-09-30T03:42:22Z",
-    "completed_at": "2026-09-30T03:42:22Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/36665193676/job/109729477875",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-09-30T11:42:22+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 113,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7"
   },
   {
     "head_sha": "62e05feb3db521230c27714ad4347bd0d9d38f1a",
@@ -3697,7 +1716,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-t8vx7",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "a40b52df0ef06a6360e2e97ce9b37a8939240d3f",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "62e05feb3db521230c27714ad4347bd0d9d38f1a"
   },
   {
     "head_sha": "a8fcedb03d93e60efceddbfc912406f7fa491d57",
@@ -3731,7 +1759,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-4tt6r",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "d155d1155260dc15d58404bfa36c0e766b9a4749",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "a8fcedb03d93e60efceddbfc912406f7fa491d57"
   },
   {
     "head_sha": "02615df12c0ad44bb7401cfc5c654fe16bebb7d0",
@@ -3765,30 +1802,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-mq95g",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-10-02T15:54:46Z",
-    "run_id": 37030286885,
-    "run_attempt": 1,
-    "job_id": 110916815766,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-10-02T15:59:12Z",
-    "completed_at": "2026-10-02T15:59:12Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/37030286885/job/110916815766",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-10-02T23:59:12+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "a8fcedb03d93e60efceddbfc912406f7fa491d57",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "02615df12c0ad44bb7401cfc5c654fe16bebb7d0"
   },
   {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -3822,7 +1845,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-5bztb",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "02615df12c0ad44bb7401cfc5c654fe16bebb7d0",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649"
   },
   {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -3857,7 +1889,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-w6htz",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true,
+    "tested_head_sha": "fb813d8482b4c8d1e2db5f820e28ebddcb55471d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649"
   },
   {
     "head_sha": "f6992d8c4657d02ae75b7d4b92bf450f9f3dbeba",
@@ -3891,7 +1932,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-b97hs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "f6992d8c4657d02ae75b7d4b92bf450f9f3dbeba"
   },
   {
     "head_sha": "7df96048756856e4d30f29618129e9942ba6985c",
@@ -3925,7 +1975,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-qgb5z",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "9b8fc5d728e1ea54dc277562b296112d905e15c1",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "7df96048756856e4d30f29618129e9942ba6985c"
   },
   {
     "head_sha": "7df96048756856e4d30f29618129e9942ba6985c",
@@ -3959,7 +2018,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-56tln",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "9b8fc5d728e1ea54dc277562b296112d905e15c1",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "7df96048756856e4d30f29618129e9942ba6985c"
   },
   {
     "head_sha": "4e19cc765510abfa1dd485b2aa72ff83d0945cf8",
@@ -3993,30 +2061,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-h75vm",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "178e4d2fdb4e0302279db86b190b73808293eb97",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-10-06T13:07:58Z",
-    "run_id": 37468409449,
-    "run_attempt": 1,
-    "job_id": 112322850709,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-10-06T14:28:39Z",
-    "completed_at": "2026-10-06T14:28:39Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/37468409449/job/112322850709",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-10-06T22:28:39+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "7c67bcce3bf750c5c762221e321976d26c551b49",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "4e19cc765510abfa1dd485b2aa72ff83d0945cf8"
   },
   {
     "head_sha": "437c06e1cf31228d51fcb1e2f3ac9e5f6c4074fe",
@@ -4050,7 +2104,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-l9ls4",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "acdd1baf9140cb0277ab929ae30a1a181e32427d",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "437c06e1cf31228d51fcb1e2f3ac9e5f6c4074fe"
   },
   {
     "head_sha": "ec570818bc428da1e3dc1820434cbadf2d5cf300",
@@ -4084,30 +2147,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-5vzsn",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "ec570818bc428da1e3dc1820434cbadf2d5cf300",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-10-07T02:54:13Z",
-    "run_id": 37564205558,
-    "run_attempt": 1,
-    "job_id": 112609196614,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-10-07T02:58:39Z",
-    "completed_at": "2026-10-07T02:58:39Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/37564205558/job/112609196614",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-10-07T10:58:39+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "971743a464aea1a0fc4109e8d2ff93a1349d577a",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "ec570818bc428da1e3dc1820434cbadf2d5cf300"
   },
   {
     "head_sha": "0e181fc85fff24db10e5f92f10319c1913e6e9c5",
@@ -4141,30 +2190,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-6lbcj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "e187b073b7640d3bd6fcab8a5a3be65af33b3ec7",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-10-08T03:00:54Z",
-    "run_id": 37720678582,
-    "run_attempt": 1,
-    "job_id": 113158729908,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-10-08T05:05:34Z",
-    "completed_at": "2026-10-08T05:05:34Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/37720678582/job/113158729908",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-10-08T13:05:34+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null,
+    "tested_head_sha": "fe85f2bc4a652a0323b53c7cc4a22376f5c9d65e",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "0e181fc85fff24db10e5f92f10319c1913e6e9c5"
   },
   {
     "head_sha": "ac850b5efdcbdbf53d05ac134390b7fdff0bd72e",
@@ -4199,30 +2234,16 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-gvxn8",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
-  },
-  {
-    "head_sha": "f4e789f8efaf411b447e697a999ed9d8cbacfc42",
-    "head_branch": "main",
-    "event": "workflow_dispatch",
-    "created_at": "2026-10-08T08:09:49Z",
-    "run_id": 37748018156,
-    "run_attempt": 1,
-    "job_id": 113216316822,
-    "job_name": "single-node (main, qwen3-30b-a3b-bf16-a2-performance, linux-aarch64-a2b3-4, Qwen3-30B-A3B-BF16-A2... / inputs.name || inputs.config_file_path || inputs.tests",
-    "conclusion": "skipped",
-    "started_at": "2026-10-08T08:16:02Z",
-    "completed_at": "2026-10-08T08:16:02Z",
-    "job_url": "https://github.com/vllm-project/vllm-ascend/actions/runs/37748018156/job/113216316822",
-    "throughput": null,
-    "throughput_values": [],
-    "error": null,
-    "missing_reason": "Skipped: benchmark was not run",
-    "time_beijing": "2026-10-08T16:16:02+08:00",
-    "runner_name": null,
-    "runner_labels": [
-      "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "09185ed8a3e55d6d112c61cb7edcf005fdb43473",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "ac850b5efdcbdbf53d05ac134390b7fdff0bd72e"
   },
   {
     "head_sha": "cb9d5563aa79e2feb9a4d0319f3a2b5808566d6a",
@@ -4257,6 +2278,15 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-4dqlj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false,
+    "tested_head_sha": "42d309a2b504c931dbd8dc6e3c0e191e3a59a390",
+    "tested_sha_evidence": "vLLM-Ascend Git information / Commit hash",
+    "workflow_head_sha": "cb9d5563aa79e2feb9a4d0319f3a2b5808566d6a"
   }
 ]

@@ -37,7 +37,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-5swwr",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467",
@@ -77,7 +83,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-k27pq",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "f8481287a07cd7c407a3142f5d4188d71d964467",
@@ -117,7 +129,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-jm799",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 111,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c5055c8086d56ea1b2714b0f555ba67edd05e945",
@@ -157,7 +175,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-mqcqh",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c843f75aff45050fd4958dc4f24ac7e54a472df4",
@@ -197,7 +221,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-xkr8f",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "d4d2957e5208c2f464d4625c05920bd29ea233cb",
@@ -237,7 +267,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-zh4zs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "660c4582aa580ce98edc9b681bb6ff6d03153575",
@@ -277,7 +313,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-dndbq",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "26f1363f7180dfcbeac1230679976cede6010fc8",
@@ -317,7 +359,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-79p4p",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "b49962987e89b850586f1819ce8f85daa85a0f81",
@@ -357,7 +405,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-sjdrr",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "e1d1490314eeb5baec2e77b27a9610e5358aa153",
@@ -397,7 +451,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-gcjbl",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c7ca0b676b9668535f467b78cff1274a4ddb63b2",
@@ -437,7 +497,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-wvftf",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c8addbb24fe8fa820bb79685c116e43ba89b77e9",
@@ -477,7 +543,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-bt24b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "182a7e496605ff60cdb8fa1f5504703fb91aaa8f",
@@ -517,7 +589,13 @@
     "runner_name": "linux-aarch64-a2b3-4-2h6bk-runner-76jrs",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
@@ -557,7 +635,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-khc9z",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
@@ -597,7 +681,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-d7rtc",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
@@ -637,7 +727,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-s4sgf",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c173a64a44dec4ba97aaba6277b1dfc1562eda19",
@@ -677,7 +773,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-7kl64",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "d052552072254a21560e8c5ebc04b80524c89622",
@@ -717,7 +819,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-rsx27",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "9693cc1a4048daeb860931bbb283fd4fe55f5ef0",
@@ -757,7 +865,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-dgs4b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "475a9a0b44404d3a6fdf523b6f63aa5cb50d6cb8",
@@ -797,7 +911,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-755lk",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "d4511510e15eb52744089e40d8cd7c9fc23ac0f4",
@@ -838,7 +958,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-jjf8j",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "eab5875da2f6ec417dcafac44e3461b3c9d69de3",
@@ -879,7 +1005,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-t6r86",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "b1bb543881ec88899f7a6fd92005ab34179edd81",
@@ -920,7 +1052,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-qzjt5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "baa023ada41a5b889cac6249845a688aab130892",
@@ -961,7 +1099,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-r6nhd",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "baa023ada41a5b889cac6249845a688aab130892",
@@ -1002,7 +1146,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-fwbv8",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "5591facb371bdb99f59a7a0bb8d59b6c4de137dd",
@@ -1043,7 +1193,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-v6tcw",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   },
   {
     "head_sha": "a71b766ce6fc0a9669a412e15a5cf53f7f827093",
@@ -1084,7 +1240,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-tbvx6",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "ad7a731b9c0db2592bbe1f568a776207745017ed",
@@ -1125,7 +1287,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-nqxbp",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "39fef3f8fe71e71a8b7a684ae0f62b85ff18661f",
@@ -1166,7 +1334,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-c84xw",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "2bb3f44716f3505d2723a4e5badb10211a6c5589",
@@ -1207,7 +1381,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-k5g9q",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B211",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   },
   {
     "head_sha": "eb31db4d75622a8043703d2cbb55e9df75e70f98",
@@ -1248,7 +1428,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-qqh57",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "7e2c563f5e6ceddb5b0975753013832d356e096e",
@@ -1289,7 +1475,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-6lqxj",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "8d4409d6256d8a6729140ddcc0d1889e3f96cdd6",
@@ -1330,7 +1522,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-c6k8b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "b64b4d714484feaa6ca71edc99b98318fe6d2f0d",
@@ -1371,7 +1569,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-gjrmt",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 112,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "c39b31aab404cda15ee907dff2bd75d1033ca0a7",
@@ -1412,7 +1616,13 @@
     "runner_name": "linux-aarch64-a2b3-4-xwddq-runner-ksp8q",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 113,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   },
   {
     "head_sha": "62e05feb3db521230c27714ad4347bd0d9d38f1a",
@@ -1453,7 +1663,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-fgbr7",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "02615df12c0ad44bb7401cfc5c654fe16bebb7d0",
@@ -1494,7 +1710,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-jsqbk",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -1535,7 +1757,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-c46q9",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C12SPC001B220",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "4ebb3090fc3c13c26557dcaae353882e70246649",
@@ -1576,7 +1804,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-t2cr5",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.1.0",
+    "cann_innerversion": "V100R001C11SPC001B243",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": true
   },
   {
     "head_sha": "f6992d8c4657d02ae75b7d4b92bf450f9f3dbeba",
@@ -1617,7 +1851,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-2dhcp",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "7df96048756856e4d30f29618129e9942ba6985c",
@@ -1658,7 +1898,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-nncsm",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "7df96048756856e4d30f29618129e9942ba6985c",
@@ -1699,7 +1945,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-8p28w",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "4e19cc765510abfa1dd485b2aa72ff83d0945cf8",
@@ -1740,7 +1992,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-l2lls",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "437c06e1cf31228d51fcb1e2f3ac9e5f6c4074fe",
@@ -1781,7 +2039,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-xzdrl",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "ec570818bc428da1e3dc1820434cbadf2d5cf300",
@@ -1822,7 +2086,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-wr9bv",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   },
   {
     "head_sha": "0e181fc85fff24db10e5f92f10319c1913e6e9c5",
@@ -1863,7 +2133,13 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-wd6ht",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": null,
+    "cann_tag_matches_installed": null
   },
   {
     "head_sha": "ac850b5efdcbdbf53d05ac134390b7fdff0bd72e",
@@ -1904,6 +2180,12 @@
     "runner_name": "linux-aarch64-a2b3-4-69nsc-runner-pcs2b",
     "runner_labels": [
       "linux-aarch64-a2b3-4"
-    ]
+    ],
+    "cann_version": "9.2.0",
+    "cann_innerversion": "V100R001C25B114",
+    "cann_version_source": "ascend_toolkit_install.info / version",
+    "cann_evidence_log_line": 116,
+    "requested_cann_tag": "9.1.0_20260731131545",
+    "cann_tag_matches_installed": false
   }
 ]
