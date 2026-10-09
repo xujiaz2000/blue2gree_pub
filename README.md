@@ -1,9 +1,9 @@
-# Qwen3 BF16 A2 CI throughput statistics
+# 已合并至 blue2green_pub
 
-[月度统计、图表与明细](qwen3-bf16-a2-monthly-20260908-20261008/README.md)
+本仓库的全部统计资料、实验结果、profiling 和 Git 历史已合并到 **[xujiaz2000/blue2green_pub](https://github.com/xujiaz2000/blue2green_pub)**。后续更新请使用该仓库，本仓库作为只读历史归档保留。
 
-![输出吞吐折线图](qwen3-bf16-a2-monthly-20260908-20261008/throughput-trend.png)
+- [统一资料索引](https://github.com/xujiaz2000/blue2green_pub#readme)
+- [MRV1 四组绑核成功证据链](https://github.com/xujiaz2000/blue2green_pub/blob/main/qwen3-30b-a3b-a2-performance/CPU_BINDING_EVIDENCE.md)
+- [合并记录和原始文件清单](https://github.com/xujiaz2000/blue2green_pub/tree/main/repository-merge)
 
-[W8A8 月度统计、图表与明细](qwen3-w8a8-a2-monthly-20260908-20261008/README.md)
-
-[BF16 / W8A8 非PR触发月度曲线（2026-09-09至2026-10-09）](qwen3-a2-non-pr-monthly-20260909-20261009/README.md)
+2026-10-09 完成合并。原有各统计目录的路径在新仓库中保持不变。
